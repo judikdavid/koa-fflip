@@ -1,12 +1,12 @@
 {
-  "name": "fflip",
+  "name": "koa-fflip",
   "description": "Advanced Feature Flipping/Toggling Across the Server & Client",
-  "author": "Fred Schott <fredkschott@gmail.com>",
+  "author": "David Judik <judik.david@gmail.com>",
   "licence": "MIT",
-  "version": "2.0.0-alpha",
+  "version": "0.1",
   "main": "lib/fflip",
-  "repository": "FredKSchott/fflip",
-  "bugs": "https://github.com/FredKSchott/fflip/issues",
+  "repository": "judikdavid/koa-fflip",
+  "bugs": "https://github.com/judikdavid/koa-fflip/issues",
   "scripts": {
     "test": "node --debug --harmony-generators ./node_modules/.bin/grunt test"
   },
