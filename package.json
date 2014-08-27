@@ -8,7 +8,7 @@
   "repository": "FredKSchott/fflip",
   "bugs": "https://github.com/FredKSchott/fflip/issues",
   "scripts": {
-    "test": "grunt travis --verbose"
+    "test": "node --debug --harmony-generators ./node_modules/.bin/grunt test"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
